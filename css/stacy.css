@@ -1,0 +1,107 @@
+body{
+
+font-family: 'Abhaya Libre', serif !important;
+background-color: #fef0c8;
+letter-spacing: 2px;
+color:#6e1e08;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6{
+
+  font-family: 'Abril Fatface', cursive !important;
+  margin-bottom: 2rem;
+    /* padding-top: 41px */
+}
+
+#mainNav{
+font-family: 'Volkhov', serif;
+letter-spacing: 2px;
+
+}
+.page-section-heading{
+
+  background:
+}
+.copyright {
+    background-color: #272b1d;
+}
+.masthead .masthead-avatar{
+
+  width: 90%;
+}
+a:hover {
+    color: #fef0c8;
+  }
+
+
+a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-primary:hover{
+
+  background-color: #aaa385;
+}
+
+ button.bg-primary:focus, button.bg-primary:hover {
+   background-color: #fef0c8 !important;
+}
+.img-fluid {
+    max-width: 100%;
+    height: 15rem;
+}
+/* .ml-auto, .mx-auto {
+    margin-left: auto!important;
+    MARGIN-RIGHT: 16%;
+} */
+/* .lead {
+    font-size: 1.4rem;
+    font-weight: 300;
+    width: 141%;
+    /* MARGIN: 4%; */
+    /* PADDING: 26%; */
+}*/
+
+
+.page-section {
+    padding: 0rem 0;
+}
+
+.portfolio {
+    margin-bottom: 30px;
+}
+.page-section {
+    padding: 0rem 0;
+}
+.btn-xl {
+    padding: 1rem 1.75rem;
+    font-size: 1.25rem;
+    margin: 0px 0px 50px;
+}
+.row {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-bottom: -15px;
+}
+.text-secondary {
+    color: #272b1e!important;
+    margin-top: 50px;
+}
+.col-xl-auto {
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    margin-left: 10%;
+}
+footer{
+padding-left: 20%;
+  height: 300px;
+}
+.move{
+
+  padding-left: 43%;
+}
+.lead {
+    font-size: 1.25rem;
+    font-weight: 900;
+}
